@@ -1,2 +1,2 @@
 # firstWeb
-My first web page
+Studying web.... This is my first website.
